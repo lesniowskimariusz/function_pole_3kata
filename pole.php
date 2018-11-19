@@ -23,9 +23,9 @@
 $trojkat_1 = new Trojkat;
 $trojkat_2 = new Trojkat;
 
-echo "1) Trojkat 1: podstawa = ".$trojkat_1->podstawa.", wysokosc = ".$trojkat_1->wysokosc";
+echo "1) Trojkat 1: podstawa = ".$trojkat_1->podstawa.", wysokosc = ".$trojkat_1->wysokosc;
 echo "<br>";
-echo "1) Trojkat 2: podstawa = ".$trojkat_2->podstawa.", wysokosc = ".$trojkat_2->wysokosc";
+echo "2) Trojkat 2: podstawa = ".$trojkat_2->podstawa.", wysokosc = ".$trojkat_2->wysokosc;
 echo "<br>";
 $pole_1 = Pole($trojkat_1);
 $pole_2 = Pole($trojkat_2);
